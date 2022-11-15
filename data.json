@@ -1,0 +1,17 @@
+{
+    "trees": [
+        {
+            "species": "oak",
+            "date": "23/12/2012",
+            "amount": "1",
+            "id": "1",
+            "width": "23",
+            "heigth": "90",
+            "coords": [
+                "12",
+                "12"
+            ],
+            "updates": []
+        }
+    ]
+}
